@@ -1,0 +1,12 @@
+{
+    "name": "starfalling/aliyun-log-php-sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "York.GU",
+            "email": "gyq5319920@gmail.com"
+        }
+    ],
+    "autoload" : {},
+    "require": {}
+}
